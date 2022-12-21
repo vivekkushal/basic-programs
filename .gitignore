@@ -11,9 +11,11 @@
 
 # Ignore input1.txt
 input1.txt
+input-node.txt
 
 # Ignore output1.txt
 output1.txt
+output-node.txt
 
 # Ignore .DS_Store
 .DS_Store
