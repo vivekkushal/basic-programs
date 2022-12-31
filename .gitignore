@@ -19,3 +19,6 @@ output-node.txt
 
 # Ignore .DS_Store
 .DS_Store
+
+# Ignore venv
+venv
