@@ -22,3 +22,6 @@ output-node.txt
 
 # Ignore venv
 venv
+
+# Ignore .out
+*.out
