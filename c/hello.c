@@ -39,11 +39,11 @@ int main() {
 	// printf("The average of the integers is: %f\n", avg);
 
 	char str[] = "Welcome to jenny's lectures";
-  char *ptr = str;
+    char *ptr = str;
 
-  printf("%c\n", *ptr);
-  printf("%c\n", *(ptr++ + 1));
-  printf("%c\n", *((ptr-- + 5) - 1) + 3);
-  printf("%c\n", *(++ptr + 10) - 32);
-  printf("%c %c %c\n", *ptr, *++ptr, *--ptr);
+    printf("%c\n", *ptr);
+    printf("%c\n", *(ptr++ + 1));
+    printf("%c\n", *((ptr-- + 5) - 1) + 3);
+    printf("%c\n", *(++ptr + 10) - 32);
+    printf("%c %c %c\n", *ptr, *++ptr, *--ptr);
 }
